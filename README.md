@@ -81,8 +81,8 @@ http://localhost:5261/swagger
 
 Clone o repositório:
 
-```
-git clone https://github.com/seu-usuario/task-manager-api.git
+```[
+git clone https://github.com/Karol444/TaskManagerAPI
 ```
 
 Acesse a pasta do projeto:
